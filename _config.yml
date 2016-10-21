@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Optics Guide
+title: Optics Documentation
 subtitle: Using Optics
 description:
 author:
@@ -14,6 +14,9 @@ versions:
 sidebar_categories:
   null:
     - index
+    - configure
+    - accounts
+#    - managingEndpoints
 github_repo: apollostack/optics-docs
 content_root: source
 
@@ -27,9 +30,9 @@ apis:
 
 logo:
   nav_mobile: images/logo-apollo-space-left.svg
-  subbrand: # XXX: get an "Optics" image
+#   subbrand: # XXX: get an "Optics" image
   title: Apollo
-  subtitle: Optics
+#  subtitle: Optics
   url: http://optics.apollodata.com/
 favicon: images/favicon.png
 
