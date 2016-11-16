@@ -7,4 +7,3 @@ In Optics, create a new endpoint and then follow the in application configuratio
 
 The detailed instructions for the Javascript agent can be found here: https://github.com/apollostack/optics-agent-js/blob/master/README.md
 
-[Troubleshooting](troubleshooting.html)

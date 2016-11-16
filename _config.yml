@@ -15,7 +15,6 @@ sidebar_categories:
   null:
     - index
     - configure
-    - troubleshooting
     - accounts
   Ruby beta:
     - ruby-beta
