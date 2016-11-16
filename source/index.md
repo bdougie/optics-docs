@@ -9,9 +9,8 @@ This is the official documentation for Apollo Optics.
 
 Apollo Optics is a tool that provides usage and performacne insights into your GraphQL service.
 
-Optics supports all Javascript GraphQL servers, and both Relay or Apollo Client.
+Optics supports all Javascript GraphQL servers, Rails applications that use the [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) gem and both Relay or Apollo Client.
 
-Optics support for Ruby GraphQL servers is in beta.
 
 # Get Started
 

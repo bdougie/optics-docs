@@ -16,8 +16,6 @@ sidebar_categories:
     - index
     - configure
     - accounts
-  Ruby beta:
-    - ruby-beta
 #    - managingEndpoints
 github_repo: apollostack/optics-docs
 content_root: source
