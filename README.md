@@ -1,5 +1,6 @@
-# docs
+# optics-docs
 
+## Run HEXO Server
 To run:
 
 ```
