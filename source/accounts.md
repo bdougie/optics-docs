@@ -1,5 +1,5 @@
 ---
-title: Manage Accounts
+title: Accounts and Billing
 order: 0
 ---
 

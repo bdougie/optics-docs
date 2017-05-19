@@ -7,6 +7,8 @@ In Optics, create a new endpoint and then follow the in-application configuratio
 
 You must add our agent to your GraphQL application in order for Optics to receive performance and analytics information regarding your queries and resolvers.
 
+Optics currently supports all Javascript GraphQL servers, Rails applications that use the [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) gem, and Relay or Apollo Client.
+
 Detailed instructions for your specific environment can be found below:
 
 ## Javascript
