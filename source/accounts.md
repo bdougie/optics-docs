@@ -21,9 +21,13 @@ If you signed up using a personal Github account and would now like to give some
 
 # Billing
 
-Each account is given a 2-week free trial to start. Go to the Account home page to start the trial. If your account is named example, you'll find it at https://optics.apollodata.com/account/example.
+Each Optics account starts at the free tier, which gives you up to 10,000 queries a month.
 
-Once the 2-week trial is over, you can continue using Optics by providing a payment method for your account and signing up for a paid Optics plan. Note that each account has a separate payment method and associated plan.
+If you exceed the 10,000 monthly volume limit, you'll need to upgrade. You can continue using Optics by providing a payment method for your account and signing up for a paid Optics plan. Note that each account has a separate payment method and associated plan.
+
+As your request volume grows we will automatically upgrade you to the next tier.
+
+View Optics pricing details here: http://www.apollodata.com/pricing/
 
 # Cancellation
 
