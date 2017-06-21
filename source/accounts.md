@@ -27,6 +27,8 @@ If you exceed the 10,000 monthly volume limit, you'll need to upgrade. You can c
 
 As your request volume grows we will automatically upgrade you to the next tier.
 
+To receive copies of past invoices, use the form or email <a href="mailto:support@meteor.com">support@meteor.com</a> with your request.
+
 View Optics pricing details here: http://www.apollodata.com/pricing/
 
 # Cancellation
