@@ -15,7 +15,7 @@ When you sign in to Optics, you will have access to each account owned by a GitH
 
 If another member of a GitHub organization you belong to has already signed up the GitHub organization for Optics access, you'll have access to that existing Optics account.
 
-If you'd like to work with additional team members, and you are the admin of a GitHub organization, simply add them to your GitHub organization. If you aren't, have an admin add you to their GitHub organization.
+If you'd like to work with additional team members, and you are the admin of a GitHub organization, simply add them to your GitHub organization. If you aren't an admin, have an admin add you to their GitHub organization.
 
 If you signed up using a personal GitHub account and would now like to give someone else Optics access, you'll need to set up a new account, with a payment method added, for the new GitHub organization. When the account is set up, contact Optics Support to start a paid subscription on the new account, and cancel the subscription on the old account.
 
