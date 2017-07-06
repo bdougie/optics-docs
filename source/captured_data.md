@@ -3,7 +3,7 @@ title: Captured Data
 order: 0
 ---
 
-Apollo Optics captures the following data for a customer's GraphQL API endpoint:
+Apollo Optics captures the following data from a GraphQL API endpoint:
 * query strings
 * schema field names and types
 * query and field latency metrics
