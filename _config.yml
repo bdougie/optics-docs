@@ -16,6 +16,8 @@ sidebar_categories:
     - index
     - configure
     - accounts
+    - billing
+    - captured_data
 #    - managingEndpoints
 github_repo: apollostack/optics-docs
 content_root: source
