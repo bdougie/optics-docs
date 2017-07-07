@@ -15,8 +15,8 @@ To receive copies of past invoices, use the form or email <a href="mailto:suppor
 
 View Optics pricing details here: http://www.apollodata.com/pricing/
 
-# Cancellation
+# Cancelation
 
 You can cancel your account by contacting Optics Support. Canceling an account will disable the services configured to use that account, and delete all data from those services. 
 
-Canceling an account will also remove that account for all other GitHub members in the organization still using the account. If other members are still using the account, you may want to contact them first to discuss usage.
+Canceling an account will also remove that account for all other GitHub members in the organization still using the account. If other members are actively using the account, you may want to contact them first to discuss their usage.
