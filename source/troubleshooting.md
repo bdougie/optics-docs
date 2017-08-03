@@ -3,8 +3,6 @@ title: Troubleshooting
 order: 0
 ---
 
-# Troubleshooting
-
 If no data is showing, check to make sure that you've added an endpoint, and configured it correctly.
 
 Check the relevant page for your agent, and confirm you've completed the recommended troubleshooting steps.
