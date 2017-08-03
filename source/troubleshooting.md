@@ -13,4 +13,4 @@ If you're using Node.js, click [here](https://github.com/apollostack/optics-agen
 
 If you're using Ruby, click [here](https://github.com/apollostack/optics-agent-ruby/blob/master/README.md).
 
-Contact Optics support for additional assistance, by using the form or emailing <a href="mailto:support@meteor.com">support@meteor.com</a> about your issue.
+Contact Optics support for additional assistance, by using the form or emailing <a href="mailto:support@meteor.com">support@meteor.com</a> about your issue. Please include the language of your agent, and any contextual information which could give us insight into the issue.
